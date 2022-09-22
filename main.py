@@ -97,6 +97,9 @@ for i in range(len(companies)):
 #copy this link in a new browser tab
 #   https://docs.google.com/spreadsheets/d/1sGJEUsAxoOeJM2BildOB425O6glIZVtG21xcB2T4DfY/edit?usp=sharing
 
+#-----------------------------------------------------------------resources of this project----------------------------------------------------------#
+
+
 
 
 
